@@ -1,0 +1,102 @@
+{
+  "description": "Random Generated | Generated with: Cell 1: < PT (0.7), Heterogeneous (Fam-Dep); Cell 2: Zero (0.5), Null; Cell 3: Zero (0.5), Null",
+  "name": "F_3F3C6M_1_1_gen",
+  "cells": [
+    {
+      "resources": [
+        {
+          "resID": 1,
+          "cellID": 1,
+          "processVector": [
+            3,
+            1,
+            4
+          ],
+          "setupVector": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "resID": 2,
+          "cellID": 1,
+          "processVector": [
+            10,
+            2,
+            5
+          ],
+          "setupVector": [
+            3,
+            4,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 3,
+          "cellID": 2,
+          "processVector": [
+            4,
+            4,
+            9
+          ],
+          "setupVector": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "resID": 4,
+          "cellID": 2,
+          "processVector": [
+            1,
+            3,
+            6
+          ],
+          "setupVector": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 5,
+          "cellID": 3,
+          "processVector": [
+            6,
+            5,
+            7
+          ],
+          "setupVector": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "resID": 6,
+          "cellID": 3,
+          "processVector": [
+            4,
+            9,
+            6
+          ],
+          "setupVector": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

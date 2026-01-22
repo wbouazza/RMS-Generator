@@ -1,0 +1,144 @@
+{
+  "description": "Factory configuration F_5F3C7M_232_4 with 3 cells.",
+  "name": "F_5F3C7M_232_4",
+  "cells": [
+    {
+      "resources": [
+        {
+          "resID": 1,
+          "cellID": 1,
+          "processVector": [
+            4,
+            3,
+            3,
+            2,
+            1
+          ],
+          "setupVector": [
+            2,
+            1,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "resID": 2,
+          "cellID": 1,
+          "processVector": [
+            4,
+            3,
+            3,
+            2,
+            1
+          ],
+          "setupVector": [
+            2,
+            1,
+            2,
+            2,
+            1
+          ]
+        }
+      ],
+    },
+    {
+      "resources": [
+        {
+          "resID": 3,
+          "cellID": 2,
+          "processVector": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "setupVector": [
+            0,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "resID": 4,
+          "cellID": 2,
+          "processVector": [
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "setupVector": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "resID": 5,
+          "cellID": 2,
+          "processVector": [
+            1,
+            2,
+            1,
+            1,
+            1
+          ],
+          "setupVector": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        }
+      ],
+    },
+    {
+      "resources": [
+        {
+          "resID": 6,
+          "cellID": 3,
+          "processVector": [
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "setupVector": [
+            1,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "resID": 7,
+          "cellID": 3,
+          "processVector": [
+            1,
+            1,
+            2,
+            3,
+            2
+          ],
+          "setupVector": [
+            1,
+            2,
+            0,
+            1,
+            1
+          ]
+        }
+      ],
+    }
+  ]
+}

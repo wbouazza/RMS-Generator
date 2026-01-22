@@ -1,0 +1,206 @@
+{
+  "description": "Random | C1: PT=Resource Dependent ST=< PT_Resource Dependent; C2: PT=Resource Dependent ST=< PT (NZ)_Hetero + Fam Dep; C3: PT=Resource Dependent ST=Zero_Identical; C4: PT=Identical ST== PT_Hetero + Fam Dep; C5: PT=Resource Dependent ST=Zero_Identical",
+  "name": "F_5F5C10M_22222_1_gen",
+  "cells": [
+    {
+      "resources": [
+        {
+          "resID": 1,
+          "cellID": 1,
+          "processVector": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "setupVector": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "resID": 2,
+          "cellID": 1,
+          "processVector": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ],
+          "setupVector": [
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 3,
+          "cellID": 2,
+          "processVector": [
+            7,
+            7,
+            7,
+            7,
+            7
+          ],
+          "setupVector": [
+            14,
+            15,
+            16,
+            11,
+            11
+          ]
+        },
+        {
+          "resID": 4,
+          "cellID": 2,
+          "processVector": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "setupVector": [
+            11,
+            14,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 5,
+          "cellID": 3,
+          "processVector": [
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "setupVector": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "resID": 6,
+          "cellID": 3,
+          "processVector": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "setupVector": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 7,
+          "cellID": 4,
+          "processVector": [
+            7,
+            7,
+            7,
+            7,
+            7
+          ],
+          "setupVector": [
+            8,
+            6,
+            5,
+            7,
+            6
+          ]
+        },
+        {
+          "resID": 8,
+          "cellID": 4,
+          "processVector": [
+            7,
+            7,
+            7,
+            7,
+            7
+          ],
+          "setupVector": [
+            5,
+            6,
+            8,
+            6,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 9,
+          "cellID": 5,
+          "processVector": [
+            7,
+            7,
+            7,
+            7,
+            7
+          ],
+          "setupVector": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "resID": 10,
+          "cellID": 5,
+          "processVector": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "setupVector": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

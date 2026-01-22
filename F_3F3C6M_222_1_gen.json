@@ -1,0 +1,102 @@
+{
+  "description": "Random | C1: PT=Resource Dependent ST=< PT (NZ)_Identical; C2: PT=Identical + Fam Dep ST=< PT_Identical; C3: PT=Resource Dependent ST=< PT_Hetero + Fam Dep",
+  "name": "F_3F3C6M_222_1_gen",
+  "cells": [
+    {
+      "resources": [
+        {
+          "resID": 1,
+          "cellID": 1,
+          "processVector": [
+            9,
+            9,
+            9
+          ],
+          "setupVector": [
+            5,
+            5,
+            5
+          ]
+        },
+        {
+          "resID": 2,
+          "cellID": 1,
+          "processVector": [
+            1,
+            1,
+            1
+          ],
+          "setupVector": [
+            5,
+            5,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 3,
+          "cellID": 2,
+          "processVector": [
+            6,
+            4,
+            10
+          ],
+          "setupVector": [
+            10,
+            10,
+            10
+          ]
+        },
+        {
+          "resID": 4,
+          "cellID": 2,
+          "processVector": [
+            6,
+            4,
+            10
+          ],
+          "setupVector": [
+            10,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 5,
+          "cellID": 3,
+          "processVector": [
+            5,
+            5,
+            5
+          ],
+          "setupVector": [
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "resID": 6,
+          "cellID": 3,
+          "processVector": [
+            6,
+            6,
+            6
+          ],
+          "setupVector": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "description": "Random | C1: PT=Hetero + Fam Dep ST=Zero_Identical; C2: PT=Identical + Fam Dep ST=< PT_Identical + Fam Dep; C3: PT=Identical ST=<= PT (NZ)_Identical",
+  "name": "F_5F3C6M_222_1_gen",
+  "cells": [
+    {
+      "resources": [
+        {
+          "resID": 1,
+          "cellID": 1,
+          "processVector": [
+            4,
+            7,
+            4,
+            8,
+            2
+          ],
+          "setupVector": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "resID": 2,
+          "cellID": 1,
+          "processVector": [
+            7,
+            1,
+            7,
+            5,
+            5
+          ],
+          "setupVector": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 3,
+          "cellID": 2,
+          "processVector": [
+            6,
+            8,
+            4,
+            3,
+            6
+          ],
+          "setupVector": [
+            3,
+            4,
+            4,
+            3,
+            3
+          ]
+        },
+        {
+          "resID": 4,
+          "cellID": 2,
+          "processVector": [
+            6,
+            8,
+            4,
+            3,
+            6
+          ],
+          "setupVector": [
+            3,
+            4,
+            4,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "resources": [
+        {
+          "resID": 5,
+          "cellID": 3,
+          "processVector": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "setupVector": [
+            9,
+            9,
+            9,
+            9,
+            9
+          ]
+        },
+        {
+          "resID": 6,
+          "cellID": 3,
+          "processVector": [
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "setupVector": [
+            9,
+            9,
+            9,
+            9,
+            9
+          ]
+        }
+      ]
+    }
+  ]
+}
